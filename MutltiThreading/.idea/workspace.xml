@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8bb9348a-a7ce-4446-8855-1df5f65d319a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/volatileDemo/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/demo1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/demo1/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/demo2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/demo2/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/demo3/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/demo3/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/volatileDemo/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MutltiThreading/volatileDemo/Processor.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/demo3/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -103,7 +119,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548366385022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548366674394" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -194,12 +210,12 @@
       <updated>1548287434238</updated>
       <workItem from="1548287438335" duration="2878000" />
       <workItem from="1548311418798" duration="1845000" />
-      <workItem from="1548366188187" duration="173000" />
+      <workItem from="1548366188187" duration="481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4896000" />
+    <option name="totallyTimeSpent" value="5204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -272,6 +288,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
